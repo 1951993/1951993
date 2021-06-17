@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1951993
-- 👀 I’m interested in Data Sciehonnce
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
